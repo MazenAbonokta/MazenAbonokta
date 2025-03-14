@@ -1,4 +1,4 @@
-## Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I am [**Mazen Abo Noktah**](https://github.com/MazenAbonokta), a **Senior Backend Developer** specializing in **Spring Boot, Java, and Microservices Architecture**. I have built **highly scalable** backend systems, optimized distributed architectures, and integrated robust **observability** and **tracing** solutions using tools like **Grafana, Loki, Tempo, and Promtail**.
 
