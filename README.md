@@ -30,7 +30,6 @@ Beyond coding, I have extensive experience in **Agile methodologies**, helping o
 ![](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/JWT-d63aff?style=flat&logo=json-web-tokens&logoColor=white)&nbsp;
 
-
 ---
 ### 💻 Tools:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
