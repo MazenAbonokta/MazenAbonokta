@@ -74,7 +74,25 @@ Beyond coding, I have extensive experience in **Agile methodologies**, helping o
 
 ### 📌 Featured Projects  
 
-
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/mazenabonokta/spring-microservices">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazenabonokta&repo=spring-microservices&hide_border=true" alt="Spring Microservices" width="100%">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/mazenabonokta/spring-tracing-demo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazenabonokta&repo=spring-tracing-demo&hide_border=true" alt="Spring Tracing Demo" width="100%">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/mazenabonokta/order-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazenabonokta&repo=order-system&hide_border=true" alt="Order System" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
